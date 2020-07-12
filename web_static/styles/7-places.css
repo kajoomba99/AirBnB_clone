@@ -1,0 +1,15 @@
+article {
+	width: 390px;
+	margin: 20px;
+	padding: 20px;
+	border: 1px solid #FF5A5F;
+	border-radius: 4px;
+}
+
+.dip-inl-blo {
+	display: inline-block;
+}
+
+.place-cards {
+	text-align: center;
+}
