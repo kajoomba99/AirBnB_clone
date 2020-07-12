@@ -14,3 +14,19 @@ body {
 .fs-30 {
 	font-size: 30px;
 }
+
+.flo-lef {
+	float: left;
+}
+
+.flo-rig {
+	float: right;
+}
+
+.ml-30pc {
+	margin-left: 30%;
+}
+
+.mt-23pc {
+	margin-top: 23%;
+}
