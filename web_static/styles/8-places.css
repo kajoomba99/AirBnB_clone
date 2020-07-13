@@ -12,6 +12,9 @@ article {
 
 .place-cards {
 	text-align: center;
+	justify-content: space-around;
+	display: inline-flex;
+	flex-wrap: wrap;
 }
 
 .price_by_night {
