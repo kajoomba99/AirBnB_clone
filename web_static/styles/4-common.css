@@ -6,6 +6,10 @@ body {
 	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.push {
+	min-height: calc(100vh - 70px);
+}
+
 .container {
 	max-width: 1000px;
 	margin: 30px auto;
@@ -29,4 +33,8 @@ body {
 
 .mt-23pc {
 	margin-top: 23%;
+}
+
+.fs-16px {
+	font-size: 16px;
 }
