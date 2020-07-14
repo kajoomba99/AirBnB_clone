@@ -54,15 +54,15 @@ article {
 }
 
 .icon_bath {
-	background-image: url("/images/icon_bath.png");
+	background-image: url("../images/icon_bath.png");
 }
 
 .icon_bed {
-	background-image: url("/images/icon_bed.png");
+	background-image: url("../images/icon_bed.png");
 }
 
 .icon_group {
-	background-image: url("/images/icon_group.png");
+	background-image: url("../images/icon_group.png");
 }
 
 .user, .description {
